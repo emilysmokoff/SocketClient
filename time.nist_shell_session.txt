@@ -1,1 +1,3 @@
+PS C:\Users\emily\info314> java SocketClient time.nist.gov 13
 
+60045 23-04-11 04:16:12 50 0 0 487.1 UTC(NIST) *
